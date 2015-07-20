@@ -8,7 +8,7 @@ The solution was meant to be as efficient as possible, while also keeping the co
  - In the extreme case where the file consists mainly of one huge line, the solution is O(n^2), but it still performs better than any other implementation I was able to find on the internet.
 
 Usage example:
-```
+```python
 bfr = BackwardsFileReader(file)
 for line in bfr.read_lines():
     print "(" + str(bfr.current_line_pos) + "): " + line
