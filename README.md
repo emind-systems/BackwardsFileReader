@@ -14,3 +14,8 @@ for line in bfr.read_lines():
     print "(" + str(bfr.current_line_pos) + "): " + line
 ```
 **Note**: This is limited to files written with Unix line endings.
+
+License
+-------
+
+See the [LICENSE](LICENSE.md) file for license rights and limitations.
