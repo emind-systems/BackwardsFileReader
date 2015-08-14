@@ -1,4 +1,4 @@
-Copyright (c) 2015 Emind Systems Ltd. - htttp://www.emind.co
+Copyright (c) 2015 Emind Systems Ltd. - http://www.emind.co
 
 This file is part of Emind Systems DevOps Toolset.
 
